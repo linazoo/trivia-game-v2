@@ -1,2 +1,2 @@
-# trivia-game-v2
+# trivia-game
 Created with CodeSandbox
